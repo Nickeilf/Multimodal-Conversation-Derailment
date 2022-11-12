@@ -2,8 +2,8 @@
 MCD dataset for paper "Multimodal Conversation Modelling for Topic Derailment Detection"
 
 <p align="middle">
-  <img src="img/example1.png" height="200" />
-  <img src="img/example2.png" height="200" /> 
+  <img src="img/example1.png" height="300" />
+  <img src="img/example2.png" height="300" /> 
 </p>
 
 This repo provides the dataset used in the paper. Due to Reddit policy, the data in this repo only contains the comment ids and image urls rather than the texts and image files. You can use the script to access the PushshiftAPI and retrieve the texts/images given the ids and urls. During the time between the data annotation and this paper being published, some submissions/comments might be deleted on Reddit by the author, thus the comments/images are lost. To access the raw data including all texts/images, please email the author stating the purpose of the usage of the dataset and with a consent of not violating Reddit policy.
