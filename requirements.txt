@@ -1,0 +1,4 @@
+imgur-downloader==0.2.2
+psaw==0.0.12
+wget
+tqdm
